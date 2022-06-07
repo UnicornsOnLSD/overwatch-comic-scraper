@@ -47,3 +47,7 @@ Downloading Valkyrie (https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4
 Downloading What You Left Behind (https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blt0194921f5024bf0c/5d5ef7f33471931c451d2bce/what-you-left-behind_en-us.pdf)
 Downloading Bastet (https://assets.blz-contentstack.com/v3/assets/blt2477dcaf4ebd440c/blte733a6fae5ac79c2/5d043324486d1c3d0af734e7/ana-bastet_en-us.pdf)
 ```
+
+# Caveats
+
+There doesn't seem to be a clear way to get the order of the comics/short stories, so you'll have to add the numbers yourself. They're in chronological order on the website so I could probably make a hacky solution, but it's not like I'm running this script 100 times a day.
